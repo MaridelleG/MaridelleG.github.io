@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Computer Science Capstone ePortfolio"
+title: "Home"
 ---
 
-# Welcome to My Site
-This is my very first GitHub Pages website designed for fullfilment in my Computer Science Capstone.
+# Computer Science Capstone ePortfolio
+This is my very first GitHub Pages website designed for partial fulfillment in my Computer Science Capstone.
