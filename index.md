@@ -29,7 +29,7 @@ This code review provides an overview of the original artifact before enhancemen
 
 [Original Code](https://github.com/MaridelleG/MaridelleG.github.io/tree/main/artifact1/original_code) | [Enhanced Code](https://github.com/MaridelleG/MaridelleG.github.io/tree/main/artifact1/enhanced_code)  
 
-<img src="[https://github.com/MaridelleG/MaridelleG.github.io/blob/main/images/Screenshot%202025-09-28%20004033.png]" alt="Artifact 1 Screenshot" width="600">
+[Screenshot of the Application](images/Screenshot%202025-09-28%20004033.png)
 
 [Artifact 1 Narrative](https://github.com/MaridelleG/MaridelleG.github.io/blob/main/artifact1/Artifact%201%20Narrative)
 
