@@ -8,7 +8,7 @@ Hello. My name is Maridelle Gonzales, and this site is a showcase of my Computer
 
 This code review provides an overview of the original artifact before enhancements. It walks through the existing functionality, highlights areas for improvement, and explains the planned modifications. The review also demonstrates how I approached analyzing structure, efficiency, and security to prepare for enhancements that align with professional standards and course outcomes.
 
-[Watch it here!](link-to-your-code-review-video)
+[Watch it here!](https://youtu.be/D8y4Yv6BfL8)
 
 ---
 
@@ -27,5 +27,5 @@ This code review provides an overview of the original artifact before enhancemen
 - Implemented security checks for user authentication and data handling  
 - Documented code and design decisions
 
-[Original Code](link-to-original-artifact1) | [Enhanced Code](link-to-enhanced-artifact1)
+[Original Code](https://github.com/MaridelleG/MaridelleG.github.io/tree/main/artifact1/original_code) | [Enhanced Code](link-to-enhanced-artifact1)
 
