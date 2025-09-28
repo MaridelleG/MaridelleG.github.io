@@ -1,0 +1,29 @@
+Maridelle Anne Gonzales
+CS499
+
+Artifact Description
+The artifact I selected for this milestone is a mobile weight tracking application originally developed during CS 360: Mobile Architecture and Programming. The project was created in Android Studio using Java, XML for layouts, and the Android SDK. Its primary functionality includes allowing users to create an account, log in, add and view weight entries, and manage SMS permissions. Each feature is implemented as a separate activity with modular design principles, and the interface is supported by RecyclerView and adapter classes for displaying weight entries dynamically.
+The app reflects my early application of user-centered design and object-oriented programming. It includes multiple activities, centralized resources, and separation of concerns between UI, logic, and data. While the original version demonstrated a functional and well-structured design, it lacked long-term data persistence, secure login handling, and more robust validation for user inputs.
+
+Justification for Inclusion in ePortfolio
+I chose this artifact for my ePortfolio because it highlights my skills in software design and engineering, an essential category in computer science. This project represents my ability to:
+●	Apply object-oriented principles such as encapsulation, modularity, and reusability.
+●	Integrate frontend UI design with backend application logic.
+●	Develop a professional-quality mobile application that adheres to design best practices.
+The enhancements I implemented elevate the artifact from a classroom project to an industry-relevant demonstration of my capabilities. Specifically, I improved:
+●	Security: Replacing plain-text credential storage with encrypted storage for login information.
+●	Input validation and usability: Replacing plain text fields with DatePicker and numeric input fields to reduce user errors.
+●	Persistence: Implementing a Room database so weight entries are stored long-term and remain available after the app is closed.
+●	Accessibility: Adding content descriptions
+●	Maintainability: Adding documentation and comments to explain design decisions and facilitate future development.
+By enhancing this app, I demonstrated skills that map directly to the program outcome of using innovative software engineering and design practices to deliver professional solutions. It also demonstrates my growth from functional coursework projects toward more polished, secure, and user-friendly applications.
+
+Outcome Alignment
+Through this artifact, I met several course outcomes, including implementing object-oriented programming principles, integrating frontend UI with backend logic, and creating a user-centered mobile application. My enhancement plans in Module One focused on improving error handling, data validation, and accessibility, all of which were successfully addressed. As a result, I updated my outcome coverage to also emphasize inclusive design and accessibility, which I had not initially considered as a primary focus.
+
+Reflection on Enhancement Process
+Enhancing and modifying this artifact gave me deeper insight into professional software engineering. I learned how to integrate Android’s Room persistence library to create a local SQLite database, which required restructuring how data was stored and retrieved throughout the app. This challenged me to rethink my data handling design and apply best practices for database management in mobile applications.
+Implementing encrypted storage for login credentials also taught me the importance of anticipating security vulnerabilities in software architecture. In my original project, SharedPreferences stored credentials in plain text, which posed a serious security flaw. Migrating to a more secure storage approach reinforced my awareness of data privacy and my responsibility as a developer to safeguard user information.
+Accessibility improvements were another valuable learning opportunity. While often overlooked in early coursework, accessibility is critical in professional software development. Adding content descriptions for screen readers, ensuring high contrast in colors, and simplifying navigation not only improved the user experience but also expanded my understanding of inclusive design principles.
+The biggest challenges I faced were integrating database support into my existing app structure and debugging issues with data persistence. Initially, migrating from SharedPreferences to Room caused conflicts with existing logic for displaying and updating entries. Solving these issues required careful testing, refactoring, and learning new database handling techniques. Overcoming these challenges strengthened my problem-solving skills and ability to adapt my design decisions when facing technical trade-offs.
+
