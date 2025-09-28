@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Weight Tracker</string>
-    <string name="weight_tracker">Weight Tracker</string>
-    <string name="login">Login</string>
-    <string name="create_an_account">Create An Account</string>
-    <string name="username">Username</string>
-    <string name="daily_weights">Daily Weights</string>
-</resources>
