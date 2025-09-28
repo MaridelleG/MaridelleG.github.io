@@ -27,5 +27,5 @@ This code review provides an overview of the original artifact before enhancemen
 - Implemented security checks for user authentication and data handling  
 - Documented code and design decisions
 
-[Original Code](https://github.com/MaridelleG/MaridelleG.github.io/tree/main/artifact1/original_code) | [Enhanced Code](link-to-enhanced-artifact1)
+[Original Code](https://github.com/MaridelleG/MaridelleG.github.io/tree/main/artifact1/original_code) | [Enhanced Code](https://github.com/MaridelleG/MaridelleG.github.io/tree/main/artifact1/enhanced_code)
 
