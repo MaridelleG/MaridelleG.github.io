@@ -27,9 +27,15 @@ This code review provides an overview of the original artifact before enhancemen
 - Implemented security checks for user authentication and data handling  
 - Documented code and design decisions
 
-[Original Code](https://github.com/MaridelleG/MaridelleG.github.io/tree/main/artifact1/original_code) | [Enhanced Code](https://github.com/MaridelleG/MaridelleG.github.io/tree/main/artifact1/enhanced_code)  
+[Original Code](https://github.com/MaridelleG/MaridelleG.github.io/tree/main/artifact1/original_code) | [Enhanced Code](https://github.com/MaridelleG/MaridelleG.github.io/tree/main/artifact1/enhanced_code)   
 
-[Screenshot of the Application](images/Screenshot%202025-09-28%20004033.png)
+| Screenshot of the Application | Screenshot of the Application |
+|--------------|--------------|
+| ![Screenshot1](images/Screenshot%202025-09-28%20004033.png) | ![Screenshot2](images/Screenshot%202025-09-28%20004103.png) |  
 
-[Artifact 1 Narrative](https://github.com/MaridelleG/MaridelleG.github.io/blob/main/artifact1/Artifact%201%20Narrative)
+**Narrative:**  
+
+This section presents my narrative for the Software Design and Engineering artifact, a mobile application developed in Android Studio. Here, I describe the original project, the enhancements I implemented to improve usability, maintainability, and security, and reflect on the skills and course outcomes demonstrated through this work.  
+
+[Artifact 1](https://github.com/MaridelleG/MaridelleG.github.io/blob/main/artifact1/Artifact%201%20Narrative)
 
