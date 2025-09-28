@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- Title/Label for the Screen -->
+    <TextView
+        android:id="@+id/textViewTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Daily Weight Entries"
+        android:textSize="20sp"
+        android:layout_gravity="center"
+        android:paddingBottom="16dp" />
+
+    <!-- RecyclerView for displaying daily weight entries -->
+
+    <!-- Button to Add a New Weight Entry -->
+
+    <RecyclerView
+        android:id="@+id/weightListRecyclerView"
+        android:layout_width="376dp"
+        android:layout_height="550dp"
+        android:layout_weight="1"
+        android:paddingBottom="16dp" />
+
+    <Button
+        android:id="@+id/buttonAddWeight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add Weight"
+        android:layout_gravity="center"
+    android:contentDescription="Button to add a new weight entry" />
+
+    <!-- Button for SMS Permission (or other functionality) -->
+    <Button
+        android:id="@+id/buttonSMSPermission"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="8dp"
+        android:text="Request SMS Permission"
+    android:contentDescription="Button to request sms permission" />
+</LinearLayout>

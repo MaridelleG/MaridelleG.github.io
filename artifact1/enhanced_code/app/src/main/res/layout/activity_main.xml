@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- App title -->
+    <TextView
+        android:id="@+id/textViewTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Weight Tracker"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="16dp"/>
+
+    <!-- RecyclerView to display weight entries -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerViewWeights"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:paddingTop="8dp"
+        android:clipToPadding="false"
+        android:layout_marginBottom="16dp"/>
+
+    <!-- Button to add a new weight entry -->
+    <Button
+        android:id="@+id/buttonAddWeight"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add Weight"
+        android:layout_marginBottom="8dp"
+        android:contentDescription="Button to add a new weight entry" />
+
+    <!-- Button to manage SMS permissions -->
+    <Button
+        android:id="@+id/buttonSmsPermission"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SMS Permission"
+        android:contentDescription="Button to have sms permission" />
+</LinearLayout>
+
