@@ -64,4 +64,34 @@ This section presents my narrative for the Software Design and Engineering artif
 
 This section presents my narrative for the Algorithms and Data Structures artifact, a course management system built in C++. I describe the original project, the enhancements I implemented to improve efficiency, correctness, and visualization of dependencies, and reflect on the skills and course outcomes demonstrated through this work.  
 
-[Artifact 2](https://github.com/MaridelleG/MaridelleG.github.io/blob/main/artifact2/Artifact%202%20Narrative)
+[Artifact 2](https://github.com/MaridelleG/MaridelleG.github.io/blob/main/artifact2/Artifact%202%20Narrative)  
+
+## Enhancement Three: Databases
+
+**Artifact:** Pet Check-In/Check-Out pseudocode and flowchart. 
+
+**Original Skills Demonstrated:**  
+- Object-oriented design applied to data modeling
+- Logical structuring of data and operations for pet management
+- Application of encapsulation, inheritance, abstraction, and polymorphism
+
+**Enhancements:**  
+- Integrated file-based database operations with object-oriented design.
+- Added search functionality for pets by name.
+- Added update functionality to modify pet data
+- Added reporting to view all currently boarded pets.
+- Linked OOP concepts to database-like operations  
+
+[Original Code](https://github.com/MaridelleG/MaridelleG.github.io/blob/main/artifact3/OriginalCodeDocument.docx) | [Enhanced Code](https://github.com/MaridelleG/MaridelleG.github.io/tree/main/artifact3/enhanced_code)
+
+
+| Screenshot of the Application | Screenshot of the Application |
+|--------------|--------------|
+| ![Screenshot1](images/Artifact3.png) | ![Screenshot2](images/Artifact3.1.png) |  
+
+**Narrative:** 
+
+This section presents my narrative for the Databases artifact, a pet check-in/check-out system. I describe the original pseudocode and flowchart, the enhancements I implemented to create a functional database system with search and reporting capabilities, and reflect on the skills and course outcomes demonstrated through this work.
+
+[Artifact 3](https://github.com/MaridelleG/MaridelleG.github.io/blob/main/artifact3/Artifact%203%20Narrative)
+
