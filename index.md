@@ -1,8 +1,38 @@
-## Welcome to My ePortfolio
+## Gonzales' ePortfolio  
 
-Hello. My name is Maridelle Gonzales, and this site is a showcase of my Computer Science capstone. Enjoy!
+<div align="center">
+  <img src="images/Grad%203.jpg" alt="Description" width="150">
+</div>
 
----
+**A Little Something about me**
+
+Welcome to my ePortfolio! My name is **Maridelle Anne Gonzales**, and I’m in my early 20s. I am currently graduating as a **Computer Science major at Southern New Hampshire University**. During my free time, I enjoy **playing games and watching series**. I also have a dog named **Oreo**, whom I’ve had since I was 17 years old.  
+
+I’m originally from the **Philippines**, but I grew up in the **USA**. Interestingly, I first studied **Civil Engineering** for two years at **De La Salle University** in the Philippines, but eventually realized that my true passion lies in **Computer Science**. As a tech enthusiast, I enjoy exploring programming, software development, and system design.  
+
+If given the chance, I would also like to focus on **game development**. Although it’s not the main focus of my Computer Science program, I once took a game development elective, and it fascinated me to learn how games are designed and created. This ePortfolio showcases my learning journey, projects, and enhancements in software design, algorithms and data structures, and databases, highlighting my skills and career aspirations.
+
+---  
+
+## Professional Self-Assessment  
+
+Over the course of my program, I have developed a well-rounded foundation in software design and engineering, algorithms and data structures, databases, and security. Completing my coursework and developing this ePortfolio has allowed me to showcase my strengths, highlight my technical skills, and prepare to enter the professional field of computer science.
+
+Throughout the program, I have gained hands-on experience with software development and programming through courses like Foundation in Application Development, Mobile Architecture and Programming, and Full Stack Development I. For instance, my mobile application project in Android Studio demonstrated object-oriented programming concepts such as encapsulation, inheritance, and polymorphism. Enhancements I implemented—including UI/UX improvements, security checks, and input validation, reflect my growth in professional coding practices and attention to usability, accessibility, and data protection. These skills have prepared me to collaborate effectively in team environments, communicate technical solutions to stakeholders, and produce software that is functional, efficient, and secure.
+
+In the area of algorithms and data structures, my work in DSA Analysis and Design and Software Development Lifecycle courses allowed me to implement complex problem-solving strategies, optimize algorithms, and efficiently manage data structures. For example, in a course management system project, I used topological sorting and graph structures to visualize prerequisites, demonstrating my ability to design robust and logical systems. These experiences have strengthened my analytical thinking and reinforced my ability to solve complex programming challenges.
+
+My expertise in databases was enhanced through Introduction to Structured Database Environments and Client/Server Development courses. I learned to construct structured environments, manipulate data, and create efficient queries, while integrating database operations with object-oriented applications. Additionally, I applied these skills in my pet check-in/check-out system, implementing search, update, and reporting functionalities that reflect real-world application and logical design. These experiences highlight my ability to combine software development with data management—a skill highly valued in both enterprise and full-stack development roles.
+
+Security has been another focus area through courses like Software Security and Secure Coding, where I gained expertise in secure coding practices, encryption technologies, and vulnerability mitigation. These skills are critical in ensuring software integrity and protecting user data, especially in today’s environment where cybersecurity is a top priority.
+
+I have also explored areas that align with my long-term passion for game development through courses like Info Tech and Digital Games and Design of Virtual Game Environments. These courses introduced me to game mechanics, AI integration, user interface design, and interactive environments, giving me insight into how software and systems are applied in creative and engaging ways.
+
+Throughout this program, I have consistently demonstrated growth in problem-solving, programming, system design, database management, and security, all while applying critical thinking, communication, and teamwork skills across academic and technical contexts. By presenting these artifacts and experiences cohesively in my ePortfolio, I aim to provide prospective employers with a clear view of my technical expertise, analytical thinking, and professional readiness.
+
+This ePortfolio not only summarizes my accomplishments but also serves as a foundation for future opportunities in software development, full-stack and mobile applications, and game design, reflecting my technical skills, creativity, and commitment to professional growth. I am confident that the combination of hands-on technical experience, interdisciplinary learning, and focus on emerging technologies positions me as a well-prepared candidate for a career in computer science.
+
+--- 
 
 ## Code Review Link
 
