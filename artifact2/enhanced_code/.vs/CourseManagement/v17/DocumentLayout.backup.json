@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gmari\\source\\repos\\CourseManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BCF7DAC-BEF0-48E5-B59C-3DEFDFD42D08}|CourseManagement.vcxproj|C:\\Users\\gmari\\source\\repos\\CourseManagement\\MainFunction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8BCF7DAC-BEF0-48E5-B59C-3DEFDFD42D08}|CourseManagement.vcxproj|solutionrelative:MainFunction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BCF7DAC-BEF0-48E5-B59C-3DEFDFD42D08}|CourseManagement.vcxproj|C:\\Users\\gmari\\source\\repos\\CourseManagement\\Text.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8BCF7DAC-BEF0-48E5-B59C-3DEFDFD42D08}|CourseManagement.vcxproj|solutionrelative:Text.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Text.txt",
+              "DocumentMoniker": "C:\\Users\\gmari\\source\\repos\\CourseManagement\\Text.txt",
+              "RelativeDocumentMoniker": "Text.txt",
+              "ToolTip": "C:\\Users\\gmari\\source\\repos\\CourseManagement\\Text.txt",
+              "RelativeToolTip": "Text.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-25T00:37:23.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainFunction.cpp",
+              "DocumentMoniker": "C:\\Users\\gmari\\source\\repos\\CourseManagement\\MainFunction.cpp",
+              "RelativeDocumentMoniker": "MainFunction.cpp",
+              "ToolTip": "C:\\Users\\gmari\\source\\repos\\CourseManagement\\MainFunction.cpp",
+              "RelativeToolTip": "MainFunction.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-25T00:36:49.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
