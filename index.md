@@ -39,7 +39,7 @@ This section presents my narrative for the Software Design and Engineering artif
 
 [Artifact 1](https://github.com/MaridelleG/MaridelleG.github.io/blob/main/artifact1/Artifact%201%20Narrative)
 
-## Enhancement One: Algorithms and Data Sctructure  
+## Enhancement Two: Algorithms and Data Sctructure  
 
 **Artifact:** Course management system implemented in C++ using unordered_map and vector.  
 
@@ -64,4 +64,4 @@ This section presents my narrative for the Software Design and Engineering artif
 
 This section presents my narrative for the Algorithms and Data Structures artifact, a course management system built in C++. I describe the original project, the enhancements I implemented to improve efficiency, correctness, and visualization of dependencies, and reflect on the skills and course outcomes demonstrated through this work.  
 
-[Artifact 1](https://github.com/MaridelleG/MaridelleG.github.io/blob/main/artifact2/Artifact%202%20Narrative)
+[Artifact 2](https://github.com/MaridelleG/MaridelleG.github.io/blob/main/artifact2/Artifact%202%20Narrative)
