@@ -67,7 +67,7 @@ This code review provides an overview of the original artifact before enhancemen
 
 This section presents my narrative for the Software Design and Engineering artifact, a mobile application developed in Android Studio. Here, I describe the original project, the enhancements I implemented to improve usability, maintainability, and security, and reflect on the skills and course outcomes demonstrated through this work.  
 
-[Artifact 1](https://github.com/MaridelleG/MaridelleG.github.io/blob/main/artifact1/Artifact%201%20Narrative)
+[Artifact 1 Narrative](https://github.com/MaridelleG/MaridelleG.github.io/blob/main/artifact1/Artifact%201%20Narrative)
 
 ## Enhancement Two: Algorithms and Data Sctructure  
 
@@ -94,7 +94,7 @@ This section presents my narrative for the Software Design and Engineering artif
 
 This section presents my narrative for the Algorithms and Data Structures artifact, a course management system built in C++. I describe the original project, the enhancements I implemented to improve efficiency, correctness, and visualization of dependencies, and reflect on the skills and course outcomes demonstrated through this work.  
 
-[Artifact 2](https://github.com/MaridelleG/MaridelleG.github.io/blob/main/artifact2/Artifact%202%20Narrative)  
+[Artifact 2 Narrative](https://github.com/MaridelleG/MaridelleG.github.io/blob/main/artifact2/Artifact%202%20Narrative)  
 
 ## Enhancement Three: Databases
 
@@ -123,5 +123,5 @@ This section presents my narrative for the Algorithms and Data Structures artifa
 
 This section presents my narrative for the Databases artifact, a pet check-in/check-out system. I describe the original pseudocode and flowchart, the enhancements I implemented to create a functional database system with search and reporting capabilities, and reflect on the skills and course outcomes demonstrated through this work.
 
-[Artifact 3](https://github.com/MaridelleG/MaridelleG.github.io/blob/main/artifact3/Artifact%203%20Narrative)
+[Artifact 3 Narrative](https://github.com/MaridelleG/MaridelleG.github.io/blob/main/artifact3/Artifact%203%20Narrative)
 
