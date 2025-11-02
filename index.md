@@ -146,8 +146,9 @@ One major challenge involved timing synchronization in the button and maze puzzl
 
 **What I Learned**
 
-This project strengthened my understanding of modular design, rapid prototyping, and scope management. I learned to focus on core mechanics first like player movement and puzzle triggers before expanding features. It also taught me how small UI and visual changes can significantly improve player experience.  
+This project strengthened my understanding of modular design, rapid prototyping, and scope management. I learned to focus on core mechanics first like player movement and puzzle triggers before expanding features. It also taught me how small UI and visual changes can significantly improve player experience.    
 
+[Github Link](https://github.com/MaridelleG/GAM303)  
 
 | Screenshot of the Application | Screenshot of the Application |
 |--------------|--------------|
