@@ -123,5 +123,33 @@ This section presents my narrative for the Algorithms and Data Structures artifa
 
 This section presents my narrative for the Databases artifact, a pet check-in/check-out system. I describe the original pseudocode and flowchart, the enhancements I implemented to create a functional database system with search and reporting capabilities, and reflect on the skills and course outcomes demonstrated through this work.
 
-[Artifact 3 Narrative](https://github.com/MaridelleG/MaridelleG.github.io/blob/main/artifact3/Artifact%203%20Narrative)
+[Artifact 3 Narrative](https://github.com/MaridelleG/MaridelleG.github.io/blob/main/artifact3/Artifact%203%20Narrative)  
+
+## Game Development Project - "Escaping the Society"   
+**Course:** GAM303 – Game Programming and Prototyping  
+**Tool Used:** Unreal Engine 5  
+**Date:** August 2025  
+
+**Project Description**  
+Escaping the Society is a 3D puzzle game prototype created in Unreal Engine 5. The goal was to design a series of interactive puzzles that challenge the player’s timing, logic, and navigation skills while maintaining an immersive and visually engaging environment. The project focused on building modular blueprints, designing gameplay loops, and creating functional UI elements that guide player interaction.  
+
+**My Role and Contributions**  
+As the lead designer and developer, I handled both the technical and creative aspects of the game, including:  
+- Developing interactive puzzles using Unreal Engine’s Blueprint system.  
+- Synchronizing door animations, timers, and triggers to ensure puzzle consistency.  
+- Designing and adding environmental elements to enhance immersion.  
+- Implementing UI features such as a health widget, crosshair, and on-screen prompts.  
+- Optimizing the gameplay loop for balance and gradual difficulty progression.  
+
+**Challenges and Solutions**  
+One major challenge involved timing synchronization in the button and maze puzzle. The door closed too early, causing players to fail unfairly. I resolved this by adjusting the blueprint delay to match the animation length, creating smoother gameplay. Another challenge was the lack of engagement in room transitions. To solve this, I added props, obstacles, and environmental storytelling details to make exploration more dynamic.  
+
+**What I Learned**
+
+This project strengthened my understanding of modular design, rapid prototyping, and scope management. I learned to focus on core mechanics first like player movement and puzzle triggers before expanding features. It also taught me how small UI and visual changes can significantly improve player experience.  
+
+
+| Screenshot of the Application | Screenshot of the Application |
+|--------------|--------------|
+| ![Screenshot1](images/Screenshot%202025-11-02%20072213.png)) | ![Screenshot2](images/Screenshot%202025-11-02%20072249.png)) |  
 
